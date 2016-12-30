@@ -1,0 +1,36 @@
+{
+  "name": "titlebar-action",
+  "version": "0.0.0",
+  "keywords": [
+    "osx",
+    "macos",
+    "defaults",
+    "dock",
+    "electron",
+    "titlebar",
+    "ux"
+  ],
+  "bugs": {
+    "url": "https://github.com/jacobmarshall/titlebar-action/issues"
+  },
+  "author": {
+    "name": "Jacob Marshall",
+    "email": "git@jacobmarshall.co",
+    "url": "https://j.msh.al"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobmarshall/titlebar-action.git"
+  },
+  "engines": {
+    "node": ">= 5"
+  },
+  "os": [
+    "darwin"
+  ],
+  "license": "MIT"
+}
